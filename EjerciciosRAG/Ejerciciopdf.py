@@ -10,7 +10,7 @@ from langchain.messages import HumanMessage, SystemMessage
 
 from langgraph.checkpoint.memory import InMemorySaver
 
-#hola a
+#hola af
 CHROMA_DIR = "./EjerciciosRAG/chroma_db"
 COLLECTION_NAME = "recetas_pdf"
 
